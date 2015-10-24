@@ -1,0 +1,6 @@
+ignore:
+  - target
+  - bin
+
+script:
+  - mvn test

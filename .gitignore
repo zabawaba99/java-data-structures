@@ -1,0 +1,11 @@
+# mac
+**.DS_Store
+
+# eclipse
+.settings
+.project
+.classpath
+bin
+
+# maven
+target
